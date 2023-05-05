@@ -1,0 +1,29 @@
+{
+  "name": "javascript-cypress",
+  "version": "1.0.0",
+  "description": "automatic tests cypress",
+  "main": "funkcje.js",
+  "scripts": {
+    "open": "npx cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlazejWojciechowski/js-cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "automatic",
+    "tests",
+    "course"
+  ],
+  "author": "Błażej Wojciechowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlazejWojciechowski/js-cypress/issues"
+  },
+  "homepage": "https://github.com/BlazejWojciechowski/js-cypress#readme",
+  "dependencies": {
+    "cypress": "^9.5.1"
+  }
+}
