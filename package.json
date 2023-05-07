@@ -5,6 +5,7 @@
   "main": "funkcje.js",
   "scripts": {
     "open": "npx cypress open",
+    "all": "npx cypress run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
